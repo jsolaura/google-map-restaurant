@@ -1,5 +1,5 @@
-
-const initMap = async () => {
+initMap();
+function initMap() {
     // Map options
     var options = {
         zoom: 13,
