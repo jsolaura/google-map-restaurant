@@ -1,6 +1,5 @@
-initMap();
 
-function initMap() {
+const initMap = async () => {
     // Map options
     var options = {
         zoom: 13,
