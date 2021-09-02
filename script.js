@@ -1,4 +1,3 @@
-initMap();
 function initMap() {
     // Map options
     var options = {
@@ -247,3 +246,5 @@ function initMap() {
     }
     
 }
+
+initMap();
